@@ -5,9 +5,9 @@ These are my implementation of the Problem Sets for the "MIT 6.00.2x - "Introduc
 This course started on 17th October 2018 and ended on 20th December 2018.
 
 This repository has the following files:  
-• 6.00.2x-pset1.py - Problem Set 2  
-• 6.00.2x-pset2.py - Problem Set 3 "A hangman game"  
-• 6.00.2x-pset3.py - Problem Set 4 "A wordgame"  
+• 6.00.2x-pset1.py - Problem Set 1 "Transporting Cows Across Space"  
+• 6.00.2x-pset2.py - Problem Set 2 "Simulating Robots"  
+• 6.00.2x-pset3.py - Problem Set 4 "Simulating the Spread of Disease and Virus Population Dynamics"  
 • ps1_cow_data.txt - A file provided containing data to use on Problem Set 1   
 • ps1_partition.py - A file provided containing a few helper functions to use on Problem Set 1  
 • ps2_visualize.py - A file provided containing a few helper functions to use on Problem Set 2  
