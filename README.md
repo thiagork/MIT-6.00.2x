@@ -1,6 +1,6 @@
 MIT 6.00.2x - Introduction to Computational Thinking and Data Science
 
-These are my implementation of the Problem Sets for the "MIT 6.00.2x - "Introduction to Computational Thinking and Data Science" course.
+These are my implementations of the Problem Sets for the "MIT 6.00.2x - "Introduction to Computational Thinking and Data Science" course.
 
 This course started on 17th October 2018 and ended on 20th December 2018.
 
